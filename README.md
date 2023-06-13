@@ -17,7 +17,10 @@ I really wanted an easy way to generate a README file because at the end of my p
 
 ## Installation
 
-undefined
+When you enter into the
+repository and bring up the code in VS Code, you will need to run the [npm i] command in order to install
+the inquirer node module. Once the module is installed, then you can run the [node index.js] command and you
+will begin the prompts for the generator.
 
 ## Usage
 
