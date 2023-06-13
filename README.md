@@ -24,13 +24,11 @@ will begin the prompts for the generator.
 
 ![Screenshot 2023-06-12 at 8 48 55 PM](https://github.com/Paulsig007/README.GENERATOR/assets/131915869/bd587654-fab0-4024-8db2-769cb468aa77)
 
-
 ## Usage
 
 Once you run the [node index.js] command just go through each prompt and answer to the best of your ability. This should create a highly detailed and professional looking README.MD file.
 
 ![Screenshot 2023-06-12 at 8 48 23 PM](https://github.com/Paulsig007/README.GENERATOR/assets/131915869/1d1a9d13-70f5-4327-b295-b3ce889dbd33)
-
 
 ## License
 
@@ -42,7 +40,7 @@ I had some great help from my TA's Justin Moore and Casey Miller, as well as my 
 
 There are no tests for this application.
 
-## Have questions?
+## Questions?
 
 ### Reach me here:
 
