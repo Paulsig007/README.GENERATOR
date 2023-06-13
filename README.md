@@ -20,11 +20,13 @@ I really wanted an easy way to generate a README file because at the end of my p
 When you enter into the
 repository and bring up the code in VS Code, you will need to run the [npm i] command in order to install
 the inquirer node module. Once the module is installed, then you can run the [node index.js] command and you
-will begin the prompts for the generator.
+will begin the prompts for the generator.![Screenshot 2023-06-12 at 8 48 55 PM](https://github.com/Paulsig007/README.GENERATOR/assets/131915869/bd587654-fab0-4024-8db2-769cb468aa77)
+
 
 ## Usage
 
-Once you run the [node index.js] command just go through each prompt and answer to the best of your ability. This should create a highly detailed and professional looking README.MD file.
+Once you run the [node index.js] command just go through each prompt and answer to the best of your ability. This should create a highly detailed and professional looking README.MD file.![Screenshot 2023-06-12 at 8 48 23 PM](https://github.com/Paulsig007/README.GENERATOR/assets/131915869/1d1a9d13-70f5-4327-b295-b3ce889dbd33)
+
 
 ## License
 
